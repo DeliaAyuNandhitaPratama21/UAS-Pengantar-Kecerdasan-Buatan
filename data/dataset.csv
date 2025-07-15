@@ -1,0 +1,433 @@
+id,nama,merek,aktivitas,waktu,durasi,notes,harga,rating,gender,image
+1,Elysium Pour Homme Parfum,Roja Dove,acara formal/pesta,pagi,4-6 jam,Aromatic fresh citrus,4000000,4.8,Pria,Elysium Pour Homme Parfum.jpg
+2,Layton,Parfums de Marly,acara formal/pesta,pagi,4-6 jam,Warm spicy vanilla,3500000,4.7,Pria,Layton.jpg
+3,Green Irish Tweed,Creed,acara formal/pesta,pagi,4-6 jam,Fresh woody green,4200000,4.6,Pria,Green Irish Tweed.jpg
+4,Delina Exclusif,Parfums de Marly,acara formal/pesta,pagi,4-6 jam,Rose oud sweet,3800000,4.9,Wanita,Delina Exclusif.jpg
+5,Good Girl Gone Bad,Kilian,acara formal/pesta,pagi,4-6 jam,White floral tuberose,3700000,4.8,Wanita,Good Girl Gone Bad.jpg
+6,Love Dont Be Shy,Kilian,acara formal/pesta,pagi,4-6 jam,Sweet marshmallow floral,3900000,4.7,Wanita,Love Dont Be Shy.jpg
+7,Grand Soir,Maison Francis Kurkdjian,acara formal/pesta,pagi,4-6 jam,Amber vanilla resinous,4100000,4.9,Unisex,Grand Soir.jpg
+8,Oud Wood,Tom Ford,acara formal/pesta,pagi,4-6 jam,Woody oud spicy,3600000,4.7,Unisex,Oud Wood.jpg
+9,Aventus For Her,Creed,acara formal/pesta,pagi,4-6 jam,Fruity fresh woody,3950000,4.6,Unisex,Aventus For Her.jpg
+10,Acqua di Gio Profumo,Giorgio Armani,acara formal/pesta,pagi,6-8 jam,Marine incense patchouli,1500000,4.4,Pria,Acqua di Gio Profumo.jpg
+11,Dior Homme Parfum,Dior,acara formal/pesta,pagi,6-8 jam,Iris leather woody,2100000,4.8,Pria,Dior Homme Parfum.jpg
+12,Invictus Victory Elixir,Paco Rabanne,acara formal/pesta,pagi,6-8 jam,Vanilla amber woody,1300000,4.5,Pria,Invictus Victory Elixir.jpg
+13,La Belle,Jean Paul Gaultier,acara formal/pesta,pagi,6-8 jam,Vanilla pear vetiver,1600000,4.6,Wanita,La Belle.jpg
+14,Givenchy L'Interdit Rouge,Givenchy,acara formal/pesta,pagi,6-8 jam,Tuberose blood orange,1700000,4.7,Wanita,Givenchy L'Interdit Rouge.jpg
+15,Alien Goddess Intense,Thierry Mugler,acara formal/pesta,pagi,6-8 jam,Vanilla jasmine coconut,1550000,4.5,Wanita,Alien Goddess Intense.jpg
+16,Gris Dior,Dior,acara formal/pesta,pagi,6-8 jam,Chypre rose earthy,2500000,4.8,Unisex,Gris Dior.jpg
+17,Replica Jazz Club,Maison Margiela,acara formal/pesta,pagi,6-8 jam,Tobacco vanilla boozy,2200000,4.6,Unisex,Replica Jazz Club.jpg
+18,Lazy Sunday Morning,Maison Margiela,acara formal/pesta,pagi,6-8 jam,Smoky woody vanilla,2000000,4.5,Unisex,Lazy Sunday Morning.jpg
+19,Sauvage Elixir,Dior,acara formal/pesta,siang,4-6 jam,Spicy woody fresh,2000000,4.7,Pria,Sauvage Elixir.jpg
+20,Tuscan Leather,Tom Ford,acara formal/pesta,siang,4-6 jam,Leather raspberry animalic,3700000,4.8,Pria,Tuscan Leather.jpg
+21,Eros Flame,Versace,acara formal/pesta,siang,4-6 jam,Citrus spicy woody,1200000,4.3,Pria,Eros Flame.jpg
+22,Black Orchid,Tom Ford,acara formal/pesta,siang,4-6 jam,Earthy spicy floral,3900000,4.6,Wanita,Black Orchid.jpg
+23,Angel,Thierry Mugler,acara formal/pesta,siang,4-6 jam,Gourmand sweet patchouli,1600000,4.0,Wanita,Angel.jpg
+24,La Vie Est Belle Intensément,Lancôme,acara formal/pesta,siang,4-6 jam,Iris vanilla red berry,1550000,4.4,Wanita,La Vie Est Belle Intensément.jpg
+25,Gentle Fluidity Gold,Maison Francis Kurkdjian,acara formal/pesta,siang,4-6 jam,Vanilla amber woody,4000000,4.8,Unisex,Gentle Fluidity Gold.jpg
+26,Aqua Universalis Forte,Maison Francis Kurkdjian,acara formal/pesta,siang,4-6 jam,Citrus white floral,3800000,4.6,Unisex,Aqua Universalis Forte.jpg
+27,Molecule 01,Escentric Molecules,acara formal/pesta,siang,4-6 jam,Woody musky ambroxan,1800000,4.5,Unisex,Molecule 01.jpg
+28,Aventus,Creed,acara formal/pesta,siang,6-8 jam,Fruity smoky woody,5000000,4.8,Pria,Aventus.jpg
+29,Bleu de Chanel Parfum,Chanel,acara formal/pesta,siang,6-8 jam,Woody aromatic fresh,2000000,4.7,Pria,Bleu de Chanel Parfum.jpg
+30,Fahrenheit,Dior,acara formal/pesta,siang,6-8 jam,Spicy woody fresh,2000000,4.7,Pria,Fahrenheit.jpg
+31,Flowerbomb,Viktor&Rolf,acara formal/pesta,siang,6-8 jam,Sweet floral patchouli,1750000,4.3,Wanita,Flowerbomb.jpg
+32,Mon Guerlain,Guerlain,acara formal/pesta,siang,6-8 jam,Lavender vanilla woody,1700000,4.3,Wanita,Mon Guerlain.jpg
+33,Miss Dior EDP,Dior,acara formal/pesta,siang,6-8 jam,Rose floral fresh,1900000,4.5,Wanita,Miss Dior EDP.jpg
+34,Baccarat Rouge 540,Maison Francis Kurkdjian,acara formal/pesta,siang,6-8 jam,Amber woody floral,4500000,4.6,Unisex,Baccarat Rouge 540.jpg
+35,Tobacco Vanille,Tom Ford,acara formal/pesta,siang,6-8 jam,Tobacco vanilla spicy,3800000,4.7,Unisex,Tobacco Vanille.jpg
+36,Ombre Leather,Tom Ford,acara formal/pesta,siang,6-8 jam,Leather spicy amber,3500000,4.6,Unisex,Ombre Leather.jpg
+37,Armani Code,Giorgio Armani,acara formal/pesta,malam,4-6 jam,Oriental spicy woody,1100000,4.1,Pria,Armani Code.jpg
+38,Phantom,Paco Rabanne,acara formal/pesta,malam,4-6 jam,Creamy woody lavender,1200000,4.0,Pria,Phantom.jpg
+39,Bad Boy,Carolina Herrera,acara formal/pesta,malam,4-6 jam,Spicy woody cacao,1100000,4.2,Pria,Bad Boy.jpg
+40,My Way,Giorgio Armani,acara formal/pesta,malam,4-6 jam,White floral fruity,1250000,4.1,Wanita,My Way.jpg
+41,Libre,Yves Saint Laurent,acara formal/pesta,malam,4-6 jam,Floral aromatic vanilla,1450000,4.4,Wanita,Libre.jpg
+42,Good Girl,Carolina Herrera,acara formal/pesta,malam,4-6 jam,Tuberose cocoa sweet,1200000,4.3,Wanita,Good Girl.jpg
+43,Eternity,Calvin Klein,acara formal/pesta,malam,4-6 jam,Floral green musky,700000,3.9,Unisex,Eternity.jpg
+44,CK One,Calvin Klein,acara formal/pesta,malam,4-6 jam,Citrus aromatic green,500000,3.7,Unisex,CK One.jpg
+45,Acqua di Parma Colonia,Acqua di Parma,acara formal/pesta,malam,4-6 jam,Citrus aromatic woody,2800000,4.5,Unisex,Acqua di Parma Colonia.jpg
+46,La Nuit de L'Homme,Yves Saint Laurent,acara formal/pesta,malam,6-8 jam,Spicy woody fresh,2000000,4.7,Pria,La Nuit de L'Homme.jpg
+47,One Million,Paco Rabanne,acara formal/pesta,malam,6-8 jam,Spicy leather amber,1050000,4.1,Pria,One Million.jpg
+48,Spicebomb,Viktor&Rolf,acara formal/pesta,malam,6-8 jam,Spicy tobacco leather,1800000,4.5,Pria,Spicebomb.jpg
+49,Alien,Thierry Mugler,acara formal/pesta,malam,6-8 jam,Amber woody jasmine,1650000,4.2,Wanita,Alien.jpg
+50,Scandal,Jean Paul Gaultier,acara formal/pesta,malam,6-8 jam,Honey chypre floral,1400000,4.3,Wanita,Scandal.jpg
+51,Black XS,Paco Rabanne,acara formal/pesta,malam,6-8 jam,Sweet woody spicy,1000000,4.0,Wanita,Black XS.jpg
+52,Herod,Parfums de Marly,acara formal/pesta,malam,6-8 jam,Oriental woody spicy,3800000,4.7,Unisex,Parfums de Marly Herod.jpg
+53,Le Gemme Tygar,Bvlgari,acara formal/pesta,malam,6-8 jam,Citrus woody amber,3500000,4.6,Unisex,Le Gemme Tygar.jpg
+54,Nishane Ani,Nishane,acara formal/pesta,malam,6-8 jam,Spicy woody vanilla,5500000,4.9,Unisex,Ani.jpg
+55,L'Homme EDT,Prada,kencan romantis,pagi,4-6 jam,Powdery iris neroli amber,1900000,4.7,Pria,Prada L'Homme EDT.jpg
+56,The One for Men,Dolce & Gabbana,kencan romantis,pagi,4-6 jam,Spicy tobacco amber,1200000,4.3,Pria,The One for Men.jpg
+57,Le Male Le Parfum,Jean Paul Gaultier,kencan romantis,pagi,4-6 jam,Cardamom woody spicy,1600000,4.4,Pria,Le Male Le Parfum.jpg
+58,J'adore,Dior,kencan romantis,pagi,4-6 jam,Floral fruity aquatic,1800000,4.3,Wanita,J'adore.jpg
+59,Mon Paris,Yves Saint Laurent,kencan romantis,pagi,4-6 jam,Fruity chypre floral,1300000,4.1,Wanita,Mon Paris.jpg
+60,Lancôme Idôle,Lancôme,kencan romantis,pagi,4-6 jam,Rose jasmine musk,1400000,4.3,Wanita,Lancôme Idôle.jpg
+61,Amber Musk,Narciso Rodriguez,kencan romantis,pagi,4-6 jam,Warm musk amber,1800000,4.2,Unisex,Amber Musk.jpg
+62,Gentleman Eau de Parfum,Givenchy,kencan romantis,pagi,4-6 jam,Iris woody spicy,1700000,4.5,Unisex,Gentleman EDP.jpg
+63,Byredo Gypsy Water,Byredo,kencan romantis,pagi,4-6 jam,Woody aromatic vanilla,2800000,4.0,Unisex,Gypsy Water.jpg
+64,The Scent Absolute,Hugo Boss,kencan romantis,pagi,6-8 jam,Maninka ginger leather,1300000,4.3,Pria,The Scent Absolute.jpg
+65,Valentino Uomo Intense,Valentino,kencan romantis,pagi,6-8 jam,Iris vanilla leather,1800000,4.6,Pria,Valentino Uomo Intense.jpg
+66,Spicebomb Extreme,Viktor & Rolf,kencan romantis,pagi,6-8 jam,Vanilla tobacco spicy,1900000,4.6,Pria,Spicebomb Extreme.jpg
+67,Chanel No. 5,Chanel,kencan romantis,pagi,6-8 jam,Floral aldehydic powdery,1800000,4.5,Wanita,Chanel No. 5.jpg
+68,Chance Eau de Parfum,Chanel,kencan romantis,pagi,6-8 jam,Chypre floral fresh,2300000,4.5,Wanita,Chanel Chance Eau de Parfum.jpg
+69,Valentino Donna Born In Roma,Valentino,kencan romantis,pagi,6-8 jam,Floral vanilla woody,1400000,4.2,Wanita,Valentino Donna Born In Roma.jpg
+70,Gourmand Leather,Montale,kencan romantis,pagi,6-8 jam,Leather vanilla spicy,1800000,4.4,Unisex,Gourmand Leather.jpg
+71,Angels' Share,Kilian,kencan romantis,pagi,6-8 jam,Cognac vanilla cinnamon,3900000,4.8,Unisex,Angels' Share.jpg
+72,Side Effect,Initio Parfums Privés,kencan romantis,pagi,6-8 jam,Vanilla tobacco woody,4000000,4.7,Unisex,Side Effect.jpg
+73,Versace Pour Homme,Versace,kencan romantis,siang,4-6 jam,Citrus aromatic woody,900000,4.0,Pria,Versace Pour Homme.jpg
+74,Percival,Parfums de Marly,kencan romantis,siang,4-6 jam,Fresh spicy woody,3300000,4.5,Pria,Percival.jpg
+75,Polo Blue,Ralph Lauren,kencan romantis,siang,4-6 jam,Aquatic woody aromatic,1100000,4.1,Pria,Polo Blue.jpg
+76,Light Blue,Dolce & Gabbana,kencan romantis,siang,4-6 jam,Citrus fresh musky,900000,4.2,Wanita,Light Blue.jpg
+77,Daisy,Marc Jacobs,kencan romantis,siang,4-6 jam,Floral fruity musky,850000,4.0,Wanita,Daisy.jpg
+78,Red Vanilla,Zara,kencan romantis,siang,4-6 jam,Vanilla sweet fruity,300000,3.8,Wanita,Red Vanilla.jpg
+79,Gucci Mémoire d'une Odeur,Gucci,kencan romantis,siang,4-6 jam,Chamomile musky woody,1400000,3.9,Unisex,Gucci Mémoire d'une Odeur.jpg
+80,Silver Mountain Water,Creed,kencan romantis,siang,4-6 jam,Citrus green musky,3800000,4.4,Unisex,Silver Mountain Water.jpg
+81,Virgin Island Water,Creed,kencan romantis,siang,4-6 jam,Citrus coconut fresh,3500000,4.6,Unisex,Virgin Island Water.jpg
+82,Luna Rossa Carbon,Prada,kencan romantis,siang,6-8 jam,Aromatic fougere mineral,1200000,4.2,Pria,Luna Rossa Carbon.jpg
+83,Guilty Pour Homme,Gucci,kencan romantis,siang,6-8 jam,Aromatic woody citrus,1300000,4.1,Pria,Gucci Guilty Pour Homme.jpg
+84,Coach for Men,Coach,kencan romantis,siang,6-8 jam,Woody aromatic fresh,1000000,4.0,Pria,Coach for Men.jpg
+85,Chloé Eau de Parfum,Chloé,kencan romantis,siang,6-8 jam,Rose floral powdery,1300000,4.1,Wanita,Chloe EDP.jpg
+86,Si,Giorgio Armani,kencan romantis,siang,6-8 jam,Fruity chypre vanilla,1350000,4.2,Wanita,Si.jpg
+87,Peony & Blush Suede,Jo Malone London,kencan romantis,siang,6-8 jam,Floral fruity soft,1700000,4.3,Wanita,Peony & Blush Suede.jpg
+88,Vanilla Sex,Tom Ford,kencan romantis,siang,6-8 jam,Vanilla almond floral,5000000,4.0,Unisex,Vanilla Sex.jpg
+89,Gris Charnel,BDK Parfums,kencan romantis,siang,6-8 jam,Fig sandalwood cardamom,2800000,4.6,Unisex,Gris Charnel.jpg
+90,Byredo Bal d'Afrique,Byredo,kencan romantis,malam,6-8 jam,Vetiver woody amber,2800000,4.3,Unisex,Bal d'Afrique.jpg
+91,The Most Wanted Parfum,Azzaro,kencan romantis,malam,4-6 jam,Toffee bourbon vanilla,1500000,4.4,Pria,The Most Wanted Parfum.jpg
+92,Stronger With You Intensely,Giorgio Armani,kencan romantis,malam,4-6 jam,Vanilla amber sweet,1300000,4.4,Pria,Stronger With You Intensely.jpg
+93,Kalan,Parfums de Marly,kencan romantis,malam,4-6 jam,Spicy woody mossy,3000000,4.5,Pria,Kalan.jpg
+94,Daisy Eau So Fresh,Marc Jacobs,kencan romantis,siang,4-6 jam,Fruity floral green,1200000,4.2,Wanita,Daisy Eau So Fresh.jpg
+95,Hypnotic Poison,Dior,kencan romantis,malam,4-6 jam,Vanilla almond spicy,1700000,4.5,Wanita,Hypnotic Poison.jpg
+96,Bright Crystal Absolu,Versace,kencan romantis,siang,4-6 jam,Fruity floral musky,1000000,4.0,Wanita,Bright Crystal Absolu.jpg
+97,Ganymede,Marc-Antoine Barrois,kencan romantis,malam,4-6 jam,Mineral woody leather,3500000,4.7,Unisex,Ganymede.jpg
+98,Erba Pura,Xerjoff,kencan romantis,malam,4-6 jam,Fruity amber musky,3200000,4.7,Unisex,Erba Pura.jpg
+99,Arabians Tonka,Montale,kencan romantis,malam,4-6 jam,Oud spicy rose,2200000,4.5,Unisex,Arabians Tonka.jpg
+100,Layton Exclusif,Parfums de Marly,kencan romantis,malam,6-8 jam,Oud spicy vanilla,4200000,4.6,Pria,Layton Exclusif.jpg
+101,Le Male Elixir,Jean Paul Gaultier,kencan romantis,malam,6-8 jam,Vanilla honey tobacco,1900000,4.6,Pria,Le Male Elixir.jpg
+102,Bvlgari Man In Black,Bvlgari,kencan romantis,malam,6-8 jam,Spicy leather rum,1500000,4.4,Pria,Bvlgari Man In Black.jpg
+103,God Is A Woman,Ariana Grande,kencan romantis,malam,6-8 jam,Pear vanilla amber,1000000,4.0,Wanita,God Is A Woman.jpg
+104,Paradoxe,Prada,kencan romantis,malam,6-8 jam,White floral amber vanilla,1700000,4.3,Wanita,Paradoxe.jpg
+105,Black Opium Le Parfum,Yves Saint Laurent,kencan romantis,malam,6-8 jam,Vanilla coffee white floral,1750000,4.6,Wanita,Black Opium Le Parfum.jpg
+106,Oud Satin Mood,Maison Francis Kurkdjian,kencan romantis,malam,6-8 jam,Oud rose vanilla,4200000,4.8,Unisex,Oud Satin Mood.jpg
+107,Lost Cherry,Tom Ford,kencan romantis,malam,6-8 jam,Cherry almond liquor,4000000,4.5,Unisex,Lost Cherry.jpg
+108,Ambre Nuit,Dior,kencan romantis,malam,6-8 jam,Amber rose spicy,3000000,4.7,Unisex,Ambre Nuit.jpg
+109,Dior Homme Sport,Dior,jalan-jalan santai,pagi,4-6 jam,Citrus spicy woody,1300000,4.2,Pria,Dior Homme Sport.jpg
+110,Versace Dylan Blue,Versace,jalan-jalan santai,pagi,4-6 jam,Ambroxan aquatic fresh,1000000,4.3,Pria,Versace Dylan Blue.jpg
+111,Polo Ralph Lauren Red,Ralph Lauren,jalan-jalan santai,pagi,4-6 jam,Fruity spicy woody,900000,4.0,Pria,Polo Ralph Lauren Red.jpg
+112,Bright Crystal,Versace,jalan-jalan santai,pagi,4-6 jam,Floral fruity musky,900000,4.1,Wanita,Bright Crystal.jpg
+113,Versace Eros Pour Femme,Versace,jalan-jalan santai,pagi,4-6 jam,Citrus woody musky,1100000,4.2,Wanita,Versace Eros Pour Femme.jpg
+114,Daisy Eau So Fresh,Marc Jacobs,jalan-jalan santai,pagi,4-6 jam,Fruity floral green,800000,3.9,Wanita,Daisy Eau So Fresh.jpg
+115,Wood Sage & Sea Salt,Jo Malone London,jalan-jalan santai,pagi,4-6 jam,Aromatic aquatic woody,1800000,4.5,Unisex,Wood Sage & Sea Salt.jpg
+116,Lime Basil & Mandarin,Jo Malone London,jalan-jalan santai,pagi,4-6 jam,Citrus aromatic fresh,1700000,4.4,Unisex,Lime Basil & Mandarin.jpg
+117,Eau des Sens,Diptyque,jalan-jalan santai,pagi,4-6 jam,Orange blossom juniper,2200000,4.3,Unisex,Eau des Sens.jpg
+118,Terre d'Hermès Eau Très Fraîche,Hermès,jalan-jalan santai,pagi,6-8 jam,Citrus woody fresh,1500000,4.3,Pria,Terre d'Hermès Eau Très Fraîche.jpg
+119,Armani Code Sport,Giorgio Armani,jalan-jalan santai,pagi,6-8 jam,Mint woody amber,1100000,4.0,Pria,Armani Code Sport.jpg
+120,Azzaro Wanted,Azzaro,jalan-jalan santai,pagi,6-8 jam,Spicy woody citrus,950000,4.1,Pria,Azzaro Wanted.jpg
+121,Bombshell,Victoria's Secret,jalan-jalan santai,pagi,6-8 jam,Fruity floral sweet,700000,3.8,Wanita,Bombshell.jpg
+122,Ariana Grande Cloud,Ariana Grande,jalan-jalan santai,pagi,6-8 jam,Sweet vanilla coconut,800000,4.0,Wanita,Ariana Grande Cloud.jpg
+123,Burberry Brit Sheer,Burberry,jalan-jalan santai,pagi,6-8 jam,Floral fruity fresh,1000000,4.0,Wanita,Burberry Brit Sheer.jpg
+124,Eau de Cédrat,L'Occitane,jalan-jalan santai,pagi,6-8 jam,Citrus aromatic woody,950000,4.0,Unisex,Eau de Cedrat.jpg
+125,Mojave Ghost,Byredo,jalan-jalan santai,pagi,6-8 jam,Ambrette woody floral,3000000,4.7,Unisex,Mojave Ghost.jpg
+126,Philosykos,Diptyque,jalan-jalan santai,pagi,6-8 jam,Fig green woody,2200000,4.5,Unisex,Philosykos.jpg
+127,Tommy Hilfiger Tommy,Tommy Hilfiger,jalan-jalan santai,siang,4-6 jam,Citrus woody fresh,700000,3.8,Pria,Tommy Hilfiger Tommy.jpg
+128,Nautica Voyage,Nautica,jalan-jalan santai,siang,4-6 jam,Aquatic green woody,500000,4.0,Pria,Nautica Voyage.jpg
+129,Adidas Ice Dive,Adidas,jalan-jalan santai,siang,4-6 jam,Aromatic fresh spicy,200000,3.5,Pria,Adidas Ice Dive.jpg
+130,Clean Warm Cotton,Clean,jalan-jalan santai,siang,4-6 jam,Clean musky floral,900000,4.0,Wanita,Clean Warm Cotton.jpg
+131,Jo Malone English Pear & Freesia,Jo Malone London,jalan-jalan santai,siang,4-6 jam,Fruity floral fresh,1800000,4.5,Wanita,Jo Malone English Pear & Freesia.jpg
+132,Zara Lightly Bloom,Zara,jalan-jalan santai,siang,4-6 jam,Floral musky fresh,300000,3.8,Wanita,Lightly Bloom.jpg
+133,Atelier Cologne Orange Sanguine,Atelier Cologne,jalan-jalan santai,siang,4-6 jam,Citrus fresh woody,2000000,4.4,Unisex,Atelier Cologne Orange Sanguine.jpg
+134,Pacific Chill,Louis Vuitton,jalan-jalan santai,siang,4-6 jam,Citrus aromatic fruity,4000000,4.3,Unisex,Pacific Chill.jpg
+135,Tom Ford Neroli Portofino,Tom Ford,jalan-jalan santai,siang,4-6 jam,Citrus aromatic floral,3800000,4.6,Unisex,Tom Ford Neroli Portofino.jpg
+136,L'Eau d'Issey Pour Homme,Issey Miyake,jalan-jalan santai,siang,6-8 jam,Citrus aquatic woody,950000,4.2,Pria,L'Eau d'Issey Pour Homme.jpg
+137,Chanel Allure Homme Sport,Chanel,jalan-jalan santai,siang,6-8 jam,Citrus aquatic woody,1800000,4.6,Pria,Chanel Allure Homme Sport.jpg
+138,Bvlgari Aqva Pour Homme,Bvlgari,jalan-jalan santai,siang,6-8 jam,Aquatic aromatic fresh,950000,4.2,Pria,Bvlgari Aqva Pour Homme.jpg
+139,Giorgio Armani Acqua di Gioia,Giorgio Armani,jalan-jalan santai,siang,6-8 jam,Aquatic floral fresh,1100000,4.1,Wanita,Giorgio Armani Acqua di Gioia.jpg
+140,Versace Dylan Blue Pour Femme,Versace,jalan-jalan santai,siang,6-8 jam,Fruity floral woody,1100000,4.2,Wanita,Dylan Blue Pour Femme.jpg
+141,Chanel Chance Eau Fraîche,Chanel,jalan-jalan santai,siang,6-8 jam,Citrus floral woody,1700000,4.4,Wanita,Chanel Chance Eau Fraîche.jpg
+142,Sunny Side Up,Juliette Has A Gun,jalan-jalan santai,siang,6-8 jam,Sandalwood amber vanilla,1900000,4.0,Unisex,Sunny Side Up.jpg
+143,Molecule 01 + Patchouli,Escentric Molecules,jalan-jalan santai,siang,6-8 jam,Woody fresh earthy,2500000,4.4,Unisex,Molecule 01 Patchouli.jpg
+144,Kiehl's Original Musk,Kiehl's,jalan-jalan santai,siang,6-8 jam,Musky floral powdery,900000,4.0,Unisex,Kiehl's Original Musk.jpg
+145,Paco Rabanne Invictus,Paco Rabanne,jalan-jalan santai,malam,4-6 jam,Aquatic woody fresh,1000000,4.1,Pria,Paco Rabanne Invictus.jpg
+146,Narciso Rodriguez for Him Bleu Noir Eau de Parfum,Narciso Rodriguez,jalan-jalan santai,malam,4-6 jam,Musky woody spicy,1400000,4.3,Pria,Bleu Noir EDP.jpg
+147,Yves Saint Laurent Y Eau de Parfum,Yves Saint Laurent,jalan-jalan santai,malam,4-6 jam,Aromatic woody spicy,1700000,4.4,Pria,Yves Saint Laurent Y Eau de Parfum.jpg
+148,Coco Mademoiselle Eau de Parfum,Chanel,jalan-jalan santai,malam,4-6 jam,Citrus patchouli rose,2300000,4.5,Wanita,Coco Mademoiselle EDP.jpg
+149,Good Girl Legere,Carolina Herrera,jalan-jalan santai,malam,4-6 jam,Floral gourmand caramel,1500000,4.3,Wanita,Good Girl Legere.jpg
+150,Gucci Bloom,Gucci,jalan-jalan santai,malam,4-6 jam,White floral tuberose,1600000,4.3,Wanita,Gucci Bloom.jpg
+151,Gris Charnel Extrait de Parfum,BDK Parfums,jalan-jalan santai,malam,4-6 jam,Fig sandalwood vanilla,3200000,4.7,Unisex,Gris Charnel Extrait.jpg
+152,Whispers in the Library,Maison Margiela,jalan-jalan santai,malam,4-6 jam,Woody resinous vanilla,2000000,4.4,Unisex,Whispers in the Library.jpg
+153,Gentle Fluidity Silver,Maison Francis Kurkdjian,jalan-jalan santai,malam,4-6 jam,Juniper berry musky woody,4000000,4.7,Unisex,Gentle Fluidity Silver.jpg
+154,Tom Ford Noir Extreme,Tom Ford,jalan-jalan santai,malam,6-8 jam,Amber vanilla kulfi,2800000,4.4,Pria,Noir Extreme.jpg
+155,Coach Platinum,Coach,jalan-jalan santai,malam,6-8 jam,Pineapple vanilla leather,1000000,4.1,Pria,Coach Platinum.jpg
+156,Tom Ford Grey Vetiver,Tom Ford,jalan-jalan santai,malam,6-8 jam,Vetiver citrus woody,3000000,4.5,Pria,Tom Ford Grey Vetiver.jpg
+157,Burberry Her Eau de Parfum,Burberry,jalan-jalan santai,malam,6-8 jam,Fruity gourmand musky,1300000,4.1,Wanita,Burberry Her EDP.jpg
+158,Givenchy Irresistible,Givenchy,jalan-jalan santai,malam,6-8 jam,Floral fruity musky,1200000,4.0,Wanita,Givenchy Irresistible.jpg
+159,Narciso Rodriguez For Her,Narciso Rodriguez,jalan-jalan santai,malam,6-8 jam,Musky floral woody,1500000,4.3,Wanita,Narciso Rodriguez For Her.jpg
+160,Byredo Blanche,Byredo,jalan-jalan santai,malam,6-8 jam,Aldehydic floral musky,3000000,4.5,Unisex,Byredo Blanche.jpg
+161,Wulong Cha,Nishane,jalan-jalan santai,malam,6-8 jam,Citrus tea fresh,2800000,4.5,Unisex,Wulong Cha.jpg
+162,Frederic Malle Portrait of a Lady,Frederic Malle,jalan-jalan santai,malam,6-8 jam,Rose patchouli woody,4500000,4.8,Unisex,Frederic Malle Portrait of a Lady.jpg
+163,Coach for Men Blue,Coach,bekerja,pagi,4-6 jam,Aromatic aquatic woody,950000,4.1,Pria,Coach for Men Blue.jpg
+164,Boss Bottled,Hugo Boss,bekerja,pagi,4-6 jam,Apple vanilla woody,1100000,4.2,Pria,Boss Bottled.jpg
+165,Montblanc Legend,Montblanc,bekerja,pagi,4-6 jam,Aromatic fruity fougere,950000,4.1,Pria,Montblanc Legend.jpg
+166,Narciso Rodriguez For Her Pure Musc,Narciso Rodriguez,bekerja,pagi,4-6 jam,Musky floral powdery,1300000,4.3,Wanita,Pure Musc.jpg
+167,Coach Floral Blush,Coach,bekerja,pagi,4-6 jam,Fruity floral fresh,950000,4.0,Wanita,Coach Floral Blush.jpg
+168,Chanel Chance Eau Tendre,Chanel,bekerja,pagi,4-6 jam,Fruity floral fresh,1700000,4.4,Wanita,Chanel Chance Eau Tendre.jpg
+169,Replica Under the Lemon Trees,Maison Margiela,bekerja,pagi,4-6 jam,Citrus green fresh,1900000,4.0,Unisex,Under the Lemon Trees.jpg
+170,Gendarme Eau de Parfum,Gendarme,bekerja,pagi,4-6 jam,Citrus aquatic fresh,1500000,4.2,Unisex,Gendarme EDP.jpg
+171,Acqua Viva,Profumum Roma,bekerja,pagi,4-6 jam,Citrus woody green,3500000,4.6,Unisex,Acqua Viva.jpg
+172,Azzaro Chrome,Azzaro,bekerja,pagi,6-8 jam,Citrus aromatic fresh,850000,4.0,Pria,Azzaro Chrome.jpg
+173,L'Homme Ideal Cool,Guerlain,bekerja,pagi,6-8 jam,Citrus mint woody,1200000,4.1,Pria,L'Homme Ideal Cool.jpg
+174,Gentleman Society,Givenchy,bekerja,pagi,6-8 jam,Woody aromatic floral,1600000,4.2,Pria,Gentleman Society.jpg
+175,Dolce Garden,Dolce & Gabbana,bekerja,pagi,6-8 jam,Floral vanilla coconut,1200000,4.0,Wanita,Dolce Garden.jpg
+176,Voce Viva,Valentino,bekerja,pagi,6-8 jam,White floral citrus vanilla,1350000,4.1,Wanita,Voce Viva.jpg
+177,Coach Dreams,Coach,bekerja,pagi,6-8 jam,Fruity floral fresh,1000000,4.0,Wanita,Coach Dreams.jpg
+178,Le Labo Santal 33,Le Labo,bekerja,pagi,6-8 jam,Woody leathery spicy,4000000,4.7,Unisex,Le Labo Santal 33.jpg
+179,The Matcha 26,Le Labo,bekerja,pagi,6-8 jam,Green tea fig woody,3200000,4.3,Unisex,The Matcha 26.jpg
+180,Clean Reserve Rain,Clean,bekerja,pagi,6-8 jam,Aquatic floral musky,1200000,4.1,Unisex,Clean Reserve Rain.jpg
+181,Montblanc Explorer Ultra Blue,Montblanc,bekerja,siang,4-6 jam,Citrus marine woody,1200000,4.1,Pria,Explorer Ultra Blue.jpg
+182,Chanel Allure Homme Sport Eau Extrême,Chanel,bekerja,siang,4-6 jam,Musky fresh spicy,2200000,4.6,Pria,Allure Homme Sport Extrême.jpg
+183,Chanel Pour Monsieur,Chanel,bekerja,siang,4-6 jam,Citrus aromatic chypre,2000000,4.4,Pria,Pour Monsieur.jpg
+184,Aqua Allegoria Mandarine Basilic,Guerlain,bekerja,siang,4-6 jam,Citrus aromatic fresh,1200000,4.2,Wanita,Mandarine Basilic.jpg
+185,Elizabeth Arden Green Tea,Elizabeth Arden,bekerja,siang,4-6 jam,Citrus aromatic green,400000,3.9,Wanita,Elizabeth Arden Green.jpg
+186,Estée Lauder Pleasures,Estée Lauder,bekerja,siang,4-6 jam,Floral green fresh,1200000,4.1,Wanita,Estee Lauder Pleasures Intense.jpg
+187,Byredo Sundazed,Byredo,bekerja,siang,4-6 jam,Citrus floral cotton candy,2900000,4.0,Unisex,Byredo Sundazed.jpg
+188,Louis Vuitton Afternoon Swim,Louis Vuitton,bekerja,siang,4-6 jam,Citrus aquatic fresh,4000000,4.3,Unisex,Afternoon Swim.jpg
+189,Jo Malone London Nectarine Blossom & Honey,Jo Malone London,bekerja,siang,4-6 jam,Fruity floral sweet,1800000,4.1,Unisex,Nectarine Blossom Honey.jpg
+190,Creed Millesime Imperial,Creed,bekerja,siang,6-8 jam,Citrus marine woody,4200000,4.4,Pria,Millesime Imperial.jpg
+191,Tom Ford Grey Vetiver Eau de Parfum,Tom Ford,bekerja,siang,6-8 jam,Vetiver citrus woody,3500000,4.5,Pria,Grey Vetiver EDP.jpg
+192,Acqua di Parma Fico di Amalfi,Acqua di Parma,bekerja,siang,6-8 jam,Fruity fig woody,2900000,4.3,Pria,Fico di Amalfi.jpg
+193,Tiffany & Co. Eau de Parfum,Tiffany & Co.,bekerja,siang,6-8 jam,Floral musky iris,1800000,4.2,Wanita,Tiffany & Co. EDP.jpg
+194,Gucci Guilty Pour Femme,Gucci,bekerja,siang,6-8 jam,Floral amber spicy,1500000,4.0,Wanita,Gucci Guilty Pour Femme.jpg
+195,Tiffany & Co. Sheer,Tiffany & Co.,bekerja,siang,6-8 jam,Floral musky fresh,1600000,4.1,Wanita,Tiffany & Co. Sheer.jpg
+196,Amouage Reflection Man,Amouage,bekerja,siang,6-8 jam,Floral woody musky,3800000,4.5,Unisex,Amouage Reflection Man.jpg
+197,Ex Nihilo Fleur Narcotique,Ex Nihilo,bekerja,siang,6-8 jam,Fruity floral musky,3500000,4.7,Unisex,Ex Nihilo Fleur Narcotique.jpg
+198,Byredo Eleventh Hour,Byredo,bekerja,siang,6-8 jam,Woody spicy warm,3000000,4.3,Unisex,Byredo Eleventh Hour.jpg
+199,Byredo Black Saffron,Byredo,bekerja,malam,4-6 jam,Leather saffron woody,3200000,4.3,Pria,Black Saffron.jpg
+200,Givenchy Pi,Givenchy,bekerja,malam,4-6 jam,Vanilla almond woody,1100000,4.2,Pria,Givenchy Pi.jpg
+201,Burberry London for Men,Burberry,bekerja,malam,4-6 jam,Spicy woody leather,900000,4.1,Pria,Burberry London.jpg
+202,Kayali Vanilla | 28,Kayali,bekerja,malam,4-6 jam,Vanilla amber woody,1400000,4.5,Wanita,Kayali Vanilla 28.jpg
+203,Good Girl Supreme,Carolina Herrera,bekerja,malam,4-6 jam,Tuberose berry tonka,1300000,4.4,Wanita,Good Girl Supreme.jpg
+204,Burberry Goddess,Burberry,bekerja,malam,4-6 jam,Vanilla lavender cacao,1600000,4.6,Wanita,Burberry Goddess.jpg
+205,Jo Malone London Myrrh & Tonka,Jo Malone London,bekerja,malam,4-6 jam,Warm spicy amber vanilla,2500000,4.5,Unisex,Myrrh & Tonka.jpg
+206,Hermès Ambre Narguilé,Hermès,bekerja,malam,4-6 jam,Warm spicy amber honey,3800000,4.7,Unisex,Ambre Narguilé.jpg
+207,Memo Paris Irish Leather,Memo Paris,bekerja,malam,4-6 jam,Leather juniper berry amber,3500000,4.6,Unisex,Irish Leather.jpg
+208,Prada L'Homme Intense,Prada,bekerja,malam,6-8 jam,Iris amber woody,1600000,4.6,Pria,Prada L'Homme Intense.jpg
+209,Azzaro Wanted by Night,Azzaro,bekerja,malam,6-8 jam,Spicy woody cinnamon,1200000,4.3,Pria,Wanted by Night.jpg
+210,Givenchy Gentleman Reserve Privée,Givenchy,bekerja,malam,6-8 jam,Whisky woody amber,1800000,4.5,Pria,Gentleman Reserve Privée.jpg
+211,Lancôme La Nuit Trésor,Lancôme,bekerja,malam,6-8 jam,Gourmand fruity woody,1500000,4.4,Wanita,Lancôme La Nuit Trésor.jpg
+212,Versace Dylan Purple,Versace,bekerja,malam,6-8 jam,Fruity floral woody,1350000,4.2,Wanita,Dylan Purple.jpg
+213,Good Girl Blush,Carolina Herrera,bekerja,malam,6-8 jam,Floral vanilla powdery,1450000,4.3,Wanita,Good Girl Blush.jpg
+214,Memo Paris African Leather,Memo Paris,bekerja,malam,6-8 jam,Leather spicy cardamom,3600000,4.6,Unisex,African Leather.jpg
+215,Parfums de Marly Carlisle,Parfums de Marly,bekerja,malam,6-8 jam,Vanilla woody spicy,4500000,4.7,Unisex,Carlisle.jpg
+216,Penhaligon's The Tragedy of Lord George,Penhaligon's,bekerja,malam,6-8 jam,Woody amber brandy,3900000,4.6,Unisex,Lord George.jpg
+217,Lacoste L.12.12 Blanc Eau de Toilette,Lacoste,hangout,pagi,4-6 jam,Woody aromatic fresh,800000,4.0,Pria,Lacoste L.12.12 Blanc.jpg
+218,Giorgio Armani Acqua di Gio Profondo,Giorgio Armani,hangout,pagi,4-6 jam,Aquatic aromatic mineral,1400000,4.3,Pria,Acqua di Gio Profondo.jpg
+219,Bvlgari Man Wood Essence,Bvlgari,hangout,pagi,4-6 jam,Woody aromatic green,1300000,4.1,Pria,Bvlgari Man Wood Essence.jpg
+220,Gucci Flora Gorgeous Gardenia Eau de Parfum,Gucci,hangout,pagi,4-6 jam,Floral fruity sweet,1400000,4.2,Wanita,Gucci Flora Gorgeous Gardenia EDP.jpg
+221,Giorgio Armani Light di Gioia,Giorgio Armani,hangout,pagi,4-6 jam,Floral woody musky,1200000,4.1,Wanita,Light di Gioia.jpg
+222,Byredo La Tulipe,Byredo,hangout,pagi,4-6 jam,Floral green fresh,2800000,4.2,Wanita,La Tulipe.jpg
+223,Maison Louis Marie No.04 Bois de Balincourt,Maison Louis Marie,hangout,pagi,4-6 jam,Woody earthy amber,1000000,4.3,Unisex,Bois de Balincourt.jpg
+224,Byredo Open Sky,Byredo,hangout,pagi,4-6 jam,Citrus woody hemp,3100000,4.4,Unisex,Byredo Open Sky.jpg
+225,Atelier Cologne Cèdre Atlas,Atelier Cologne,hangout,pagi,4-6 jam,Woody aromatic fresh,2000000,4.3,Unisex,Cèdre Atlas.jpg
+226,Dior Homme Cologne,Dior,hangout,pagi,6-8 jam,Citrus musky floral,1500000,4.5,Pria,Dior Homme Cologne.jpg
+227,Montblanc Legend Spirit,Montblanc,hangout,pagi,6-8 jam,Aromatic woody fresh,900000,4.1,Pria,Legend Spirit.jpg
+228,Mancera Cedrat Boise,Mancera,hangout,pagi,6-8 jam,Citrus woody fruity,1800000,4.4,Pria,Cedrat Boise.jpg
+229,Jo Malone London Wild Bluebell,Jo Malone London,hangout,pagi,6-8 jam,Floral green fresh,1800000,4.2,Wanita,Wild Bluebell.jpg
+230,Maison Francis Kurkdjian Aqua Celestia Forte,Maison Francis Kurkdjian,hangout,pagi,6-8 jam,Citrus aquatic floral,3800000,4.5,Wanita,Aqua Celestia Forte.jpg
+231,Aerin Lauder Mediterranean Honeysuckle,Aerin Lauder,hangout,pagi,6-8 jam,Floral citrus fresh,1500000,4.1,Wanita,Mediterranean Honeysuckle.jpg
+232,Maison Margiela Replica Beach Walk,Maison Margiela,hangout,pagi,6-8 jam,Floral aquatic musky,2000000,4.3,Unisex,Maison Margiela Replica Beach Walk.jpg
+233,Louis Vuitton Imagination,Louis Vuitton,hangout,pagi,6-8 jam,Citrus amber tea,4000000,4.5,Unisex,Imagination.jpg
+234,Hermes Un Jardin Sur Le Nil,Hermès,hangout,pagi,6-8 jam,Green fruity fresh,1900000,4.3,Unisex,Un Jardin Sur Le Nil.jpg
+235,Tommy Hilfiger Tommy,Tommy Hilfiger,hangout,siang,4-6 jam,Citrus woody fresh,700000,3.8,Pria,Tommy Hilfiger Tommy.jpg
+235,Abercrombie & Fitch Fierce,Abercrombie & Fitch,hangout,siang,4-6 jam,Woody aromatic musky,900000,4.2,Pria,Fierce.jpg
+237,Valentino Uomo Born in Roma Green Stravaganza,Valentino,hangout,siang,4-6 jam,Woody aromatic fresh,1400000,4.3,Pria,Born in Roma Green Stravaganza.jpg
+238,Zara Gardenia,Zara,hangout,siang,4-6 jam,White floral orange blossom,300000,3.9,Wanita,Zara Gardenia.jpg
+239,Bath & Body Works Gingham,Bath & Body Works,hangout,siang,4-6 jam,Fruity floral fresh,250000,3.9,Wanita,Bath & Body Works Gingham.jpg
+240,The Body Shop White Musk,The Body Shop,hangout,siang,4-6 jam,Musky floral powdery,400000,3.7,Wanita,The Body Shop White Musk.jpg
+241,Atelier Cologne Bergamote Soleil,Atelier Cologne,hangout,siang,4-6 jam,Citrus woody aromatic,2000000,4.3,Unisex,Bergamote Soleil.jpg
+242,Mancera Instant Crush,Mancera,hangout,siang,4-6 jam,Amber floral woody,2000000,4.6,Unisex,Instant Crush.jpg
+243,Nishane Hacivat,Nishane,hangout,siang,4-6 jam,Chypre fruity woody,3500000,4.7,Unisex,Hacivat.jpg
+244,Versace Man Eau Fraîche,Versace,hangout,siang,6-8 jam,Citrus aquatic woody,900000,4.1,Pria,Versace Man Eau Fraiche.jpg
+245,Moschino Toy Boy,Moschino,hangout,siang,6-8 jam,Spicy rose woody,1050000,4.3,Pria,Toy Boy.jpg
+246,Davidoff Cool Water,Davidoff,hangout,siang,6-8 jam,Aquatic aromatic fresh,600000,3.9,Pria,Davidoff Cool Water.jpg
+247,Chloe Nomade,Chloé,hangout,siang,6-8 jam,Chypre floral fruity,1500000,4.2,Wanita,Chloe Nomade.jpg
+248,Miu Miu L'Eau Bleue,Miu Miu,hangout,siang,6-8 jam,Floral green fresh,1200000,4.0,Wanita,Miu Miu L'Eau Bleue.jpg
+249,Bvlgari Omnia Crystalline,Bvlgari,hangout,siang,6-8 jam,Woody musky floral,950000,4.1,Wanita,Omnia Crystalline.jpg
+250,Acqua di Parma Colonia Essenza,Acqua di Parma,hangout,siang,6-8 jam,Citrus aromatic woody,3000000,4.6,Unisex,Colonia Essenza.jpg
+251,Diptyque L'Ombre dans l'Eau,Diptyque,hangout,siang,6-8 jam,Green fruity floral,2100000,4.4,Unisex,L'Ombre dans l'Eau.jpg
+252,Atelier Cologne Clémentine California,Atelier Cologne,hangout,siang,6-8 jam,Citrus woody sweet,2000000,4.2,Unisex,Clémentine California.jpg
+253,Jean Paul Gaultier Scandal Pour Homme Le Parfum,Jean Paul Gaultier,hangout,malam,4-6 jam,Caramel woody sweet,1500000,4.5,Pria,Scandal Pour Homme Le Parfum.jpg
+254,Spicebomb Infrared,Viktor&Rolf,hangout,malam,4-6 jam,Spicy amber leather,1700000,4.4,Pria,Spicebomb Infrared.jpg
+255,Carolina Herrera Bad Boy Le Parfum,Carolina Herrera,hangout,malam,4-6 jam,Leather cannabis woody,1600000,4.3,Pria,Bad Boy Le Parfum.jpg
+256,Armani Code for Women,Giorgio Armani,hangout,malam,4-6 jam,Orange blossom honey vanilla,1100000,4.2,Wanita,Armani Code for Women.jpg
+257,Carolina Herrera 212 VIP Rosé,Carolina Herrera,hangout,malam,4-6 jam,Champagne floral fruity,1000000,4.1,Wanita,212 VIP Rosé.jpg
+258,Parfums de Marly Oriana,Parfums de Marly,hangout,malam,4-6 jam,Orange blossom marshmallow whipped cream,4200000,4.6,Wanita,Oriana.jpg
+259,Tiziana Terenzi Kirke,Tiziana Terenzi,hangout,malam,4-6 jam,Fruity musky amber,2900000,4.5,Unisex,Kirke.jpg
+260,Maison Crivelli Hibiscus Mahajád,Maison Crivelli,hangout,malam,4-6 jam,Floral fruity amber,4500000,4.7,Unisex,Hibiscus Mahajád.jpg
+261,Penhaligon's The Duke,Penhaligon's,hangout,malam,4-6 jam,Woody spicy leathery,3900000,4.6,Unisex,The Duke.jpg
+262,Mancera Red Tobacco,Mancera,hangout,malam,6-8 jam,Tobacco woody spicy,1900000,4.6,Pria,Red Tobacco.jpg
+263,Nishane Fan Your Flames,Nishane,hangout,malam,6-8 jam,Tobacco coconut rum,3400000,4.5,Pria,Fan Your Flames.jpg
+264,Givenchy Gentlemen Only Absolute,Givenchy,hangout,malam,6-8 jam,Amber spicy woody,1200000,4.2,Pria,Gentlemen Only Absolute.jpg
+265,Lancôme Hypnôse,Lancôme,hangout,malam,6-8 jam,Vanilla woody oriental,1300000,4.0,Wanita,Lancôme Hypnôse.jpg
+266,Ex Nihilo Fleur Narcotique,Ex Nihilo,hangout,malam,6-8 jam,Fruity floral musky,3900000,4.6,Wanita,Fleur Narcotique EDP.jpg
+267,Xerjoff Casamorati Lira,Xerjoff,hangout,malam,6-8 jam,Caramel vanilla citrus,4000000,4.6,Wanita,Lira.jpg
+268,Creed Royal Oud,Creed,hangout,malam,6-8 jam,Woody spicy aromatic,5800000,4.7,Unisex,Royal Oud.jpg
+269,Bvlgari Le Gemme Orom,Bvlgari,hangout,malam,6-8 jam,Vanilla amber oud,4500000,4.6,Unisex,Le Gemme Orom.jpg
+270,Louis Vuitton Ombre Nomade,Louis Vuitton,hangout,malam,6-8 jam,Oud smoky leather,5500000,4.8,Unisex,Ombre Nomade.jpg
+271,Tommy Hilfiger Impact,Tommy Hilfiger,sekolah/kuliah,pagi,4-6 jam,Woody aromatic fruity,850000,4.0,Pria,Tommy Impact.jpg
+272,Banana Republic 78 Vintage Green,Banana Republic,sekolah/kuliah,pagi,4-6 jam,Green fresh musky,750000,4.1,pria,78 Vintage Green.jpg
+273,Kenzo Pour Homme EDP,Kenzo,sekolah/kuliah,pagi,4-6 jam,Aquatic woody spicy,1100000,4.3,Pria,Kenzo Pour Homme EDP.jpg
+274,Philosophy Amazing Grace,Philosophy,sekolah/kuliah,pagi,4-6 jam,Clean floral fresh,850000,4.2,Wanita,Amazing Grace.jpg
+275,Elizabeth Arden 5th Avenue,Elizabeth Arden,sekolah/kuliah,pagi,4-6 jam,Floral aldehydic musky,550000,3.8,Wanita,5th Avenue.jpg
+276,Tous Les Colognes Concentrées,Tous,sekolah/kuliah,pagi,4-6 jam,Floral musky fresh,700000,3.9,Wanita,Les Colognes Concentrees.jpg
+277,Maison Francis Kurkdjian Aqua Vitae Forte,Maison Francis Kurkdjian,sekolah/kuliah,pagi,4-6 jam,Citrus woody spicy,3500000,4.5,Unisex,Aqua Vitae Forte.jpg
+278,Aesop Hwyl,Aesop,sekolah/kuliah,pagi,4-6 jam,Smoky woody cypress,2500000,4.3,Unisex,Hwyl.jpg
+279,Louis Vuitton Cactus Garden,Louis Vuitton,sekolah/kuliah,pagi,4-6 jam,Woody aromatic green,4000000,4.3,Unisex,Cactus Garden.jpg
+280,Montblanc Explorer,Montblanc,sekolah/kuliah,pagi,6-8 jam,Woody aromatic citrus,950000,4.2,Pria,Montblanc Explorer.jpg
+281,Lalique Encre Noire Sport,Lalique,sekolah/kuliah,pagi,6-8 jam,Woody aquatic citrus,650000,4.0,Pria,Encre Noire Sport.jpg
+282,Issey Miyake L'Eau Majeure d'Issey,Issey Miyake,sekolah/kuliah,pagi,6-8 jam,Woody aquatic fresh,900000,4.1,Pria,L'Eau Majeure d'Issey.jpg
+283,Zara Nude Bouquet,Zara,sekolah/kuliah,pagi,6-8 jam,Floral powdery clean,250000,4.0,Wanita,Nude Bouquet.jpg
+284,Marc Jacobs Daisy Dream,Marc Jacobs,sekolah/kuliah,pagi,6-8 jam,Fruity floral airy,950000,4.1,Wanita,Daisy Dream.jpg
+285,Clean Rain,Clean,sekolah/kuliah,pagi,6-8 jam,Aquatic fresh floral,900000,4.0,Wanita,Clean Rain.jpg
+286,Le Labo Another 13,Le Labo,sekolah/kuliah,pagi,6-8 jam,Amber woody musky,4000000,4.7,Unisex,Another 13.jpg
+287,Goldfield & Banks Pacific Rock Moss,Goldfield & Banks,sekolah/kuliah,pagi,6-8 jam,Aquatic woody fresh,2500000,4.5,Unisex,Pacific Rock Moss.jpg
+288,Jo Malone English Oak & Hazelnut,Jo Malone London,sekolah/kuliah,pagi,6-8 jam,Woody spicy green,1700000,4.3,Unisex,English Oak & Hazelnut.jpg
+289,Versace Pour Homme Dylan Turquoise,Versace,sekolah/kuliah,pagi,4-6 jam,Citrus woody aquatic,1050000,4.2,Pria,Dylan Turquoise.jpg
+290,Calvin Klein Eternity Aqua for Men,Calvin Klein,sekolah/kuliah,pagi,4-6 jam,Aquatic woody fresh,800000,4.0,Pria,Eternity Aqua for Men.jpg
+291,Hugo Boss Hugo Man,Hugo Boss,sekolah/kuliah,pagi,4-6 jam,Green aromatic fresh,850000,4.0,Pria,Hugo Man.jpg
+292,Clinique Happy,Clinique,sekolah/kuliah,pagi,4-6 jam,Citrus floral fresh,850000,4.1,Wanita,Clinique Happy.jpg
+293,Estée Lauder Pleasures,Estée Lauder,sekolah/kuliah,pagi,4-6 jam,Floral green fresh,950000,4.2,Wanita,Estee Lauder Pleasures.jpg
+294,Elizabeth Arden White Tea,Elizabeth Arden,sekolah/kuliah,pagi,4-6 jam,Musky floral woody,500000,4.0,Wanita,White Tea.jpg
+295,Malin+Goetz Cannabis,Malin+Goetz,sekolah/kuliah,pagi,4-6 jam,Herbal spicy patchouli,1900000,4.3,Unisex,Cannabis.jpg
+296,Maison Crivelli Papyrus Moléculaire,Maison Crivelli,sekolah/kuliah,pagi,4-6 jam,Woody musky spicy,3500000,4.4,Unisex,Papyrus Moléculaire.jpg
+297,Comme des Garçons Amazingreen,Comme des Garçons,sekolah/kuliah,pagi,4-6 jam,Green smoky ozonic,1800000,4.2,Unisex,Amazingreen.jpg
+298,Afnan 9 PM,Afnan,sekolah/kuliah,siang,6-8 jam,Amber vanilla fruity,600000,4.3,Pria,Afnan 9 PM.jpg
+299,Zara Vibrant Leather Summer,Zara,sekolah/kuliah,siang,6-8 jam,Citrus woody ambroxan,400000,4.0,Pria,Vibrant Leather Summer.jpg
+300,Versace The Dreamer,Versace,sekolah/kuliah,siang,6-8 jam,Aromatic woody fresh,750000,3.9,Pria,The Dreamer.jpg
+301,Marc Jacobs Perfect,Marc Jacobs,sekolah/kuliah,siang,6-8 jam,Rhubarb daffodil milky,1200000,4.2,Wanita,Marc Jacobs Perfect.jpg
+302,Lancôme La Vie Est Belle En Rose,Lancôme,sekolah/kuliah,siang,6-8 jam,Floral fruity sweet,1200000,4.1,Wanita,La Vie Est Belle En Rose.jpg
+303,Salvatore Ferragamo Signorina in Fiore,Salvatore Ferragamo,sekolah/kuliah,siang,6-8 jam,Fruity floral fresh,850000,3.9,Wanita,Signorina in Fiore.jpg
+304,Byredo Lil Fleur,Byredo,sekolah/kuliah,siang,6-8 jam,Rose fruity amber,2900000,4.2,Unisex,Lil Fleur.jpg
+305,Goldfield & Banks White Sandalwood,Goldfield & Banks,sekolah/kuliah,siang,6-8 jam,Woody musky spicy,2800000,4.4,Unisex,White Sandalwood.jpg
+306,Byredo Super Cedar,Byredo,sekolah/kuliah,siang,6-8 jam,Woody musky clean,2800000,4.3,Unisex,Super Cedar.jpg
+307,Ralph Lauren Polo Cologne Intense,Ralph Lauren,sekolah/kuliah,siang,4-6 jam,Citrus aromatic musky,1000000,4.2,Pria,Polo Cologne Intense.jpg
+308,Rasasi Hawas for Him,Rasasi,sekolah/kuliah,siang,4-6 jam,Aquatic cinnamon amber,750000,4.4,Pria,Rasasi Hawas for Him.jpg
+309,Zadig & Voltaire This Is Him!,Zadig & Voltaire,sekolah/kuliah,siang,4-6 jam,Vanilla woody incense,950000,4.0,Pria,This Is Him!.jpg
+310,Replica Springtime in a Park,Maison Margiela,sekolah/kuliah,siang,4-6 jam,Floral fruity fresh,2000000,4.2,Wanita,Springtime in a Park.jpg
+311,Kenzo Flower by Kenzo Eau de Vie,Kenzo,sekolah/kuliah,siang,4-6 jam,Floral fresh musky,950000,4.0,Wanita,Flower by Kenzo Eau de Vie.jpg
+312,Lancôme Miracle,Lancôme,sekolah/kuliah,siang,4-6 jam,Floral spicy fresh,1200000,4.2,Wanita,Lancome Miracle.jpg
+313,Maison Louis Marie No.10 Aboukir,Maison Louis Marie,sekolah/kuliah,siang,4-6 jam,Woody aromatic marine,1200000,4.1,Unisex,Aboukir.jpg
+314,Jo Malone Mimosa & Cardamom,Jo Malone London,sekolah/kuliah,siang,4-6 jam,Warm spicy powdery,1800000,4.4,Unisex,Mimosa & Cardamom.jpg
+315,Byredo Bibliothèque,Byredo,sekolah/kuliah,siang,4-6 jam,Woody fruity musky,3000000,4.6,Unisex,Bibliotheque.jpg
+316,Carolina Herrera 212 NYC Men,Carolina Herrera,sekolah/kuliah,malam,6-8 jam,Fresh spicy green,900000,4.0,Pria,212 NYC Men.jpg
+317,Diesel Only The Brave,Diesel,sekolah/kuliah,malam,6-8 jam,Oriental woody leather,900000,4.0,Pria,Only The Brave.jpg
+318,Jean Paul Gaultier Le Beau,Jean Paul Gaultier,sekolah/kuliah,malam,6-8 jam,Coconut woody fresh,1250000,4.1,Pria,Le Beau.jpg
+319,Paco Rabanne Fame,Paco Rabanne,sekolah/kuliah,malam,6-8 jam,Mango jasmine incense,1400000,4.2,Wanita,Paco Rabanne Fame.jpg
+320,Narciso Rodriguez Musc Noir Rose,Narciso Rodriguez,sekolah/kuliah,malam,6-8 jam,Musky floral amber,1300000,4.3,Wanita,Musc Noir Rose.jpg
+321,Viktor & Rolf Flowerbomb Midnight,Viktor & Rolf,sekolah/kuliah,malam,6-8 jam,Fruity floral gourmand,1800000,4.1,Wanita,Flowerbomb Midnight.jpg
+322,Dior Spice Blend,Dior,sekolah/kuliah,malam,6-8 jam,Spicy amber woody,3500000,4.6,Unisex,Dior Spice Blend.jpg
+323,Tom Ford Soleil Brûlant,Tom Ford,sekolah/kuliah,malam,6-8 jam,Amber floral solar,4000000,4.2,Unisex,Soleil Brulant.jpg
+324,Byredo Velvet Haze,Byredo,sekolah/kuliah,malam,6-8 jam,Coconut patchouli musky,3000000,4.5,Unisex,Velvet Haze.jpg
+325,Paco Rabanne Pure XS,Paco Rabanne,sekolah/kuliah,malam,4-6 jam,Oriental spicy sweet,1100000,4.1,Pria,Pure XS.jpg
+326,Burberry Hero Eau de Parfum,Burberry,sekolah/kuliah,malam,4-6 jam,Woody spicy amber,1300000,4.3,Pria,Hero EDP.jpg
+327,Boss Bottled Night,Hugo Boss,sekolah/kuliah,malam,4-6 jam,Woody aromatic musky,950000,4.1,Pria,Bottled Night.jpg
+328,Lancôme Trésor Midnight Rose,Lancôme,sekolah/kuliah,malam,4-6 jam,Floral fruity sweet,1350000,4.2,Wanita,Tresor Midnight Rose.jpg
+329,Paco Rabanne Lady Million,Paco Rabanne,sekolah/kuliah,malam,4-6 jam,Floral fruity amber,1100000,4.1,Wanita,Lady Million.jpg
+330,Carolina Herrera Very Good Girl,Carolina Herrera,sekolah/kuliah,malam,4-6 jam,Rose vanilla fruity,1400000,4.2,Wanita,Very Good Girl.jpg
+331,Kilian Black Phantom,Kilian,sekolah/kuliah,malam,4-6 jam,Coffee caramel rum,4800000,4.7,Unisex,Black Phantom.jpg
+332,Essential Parfums Bois Impérial,Essential Parfums,sekolah/kuliah,malam,4-6 jam,Woody spicy fresh,1500000,4.4,Unisex,Bois Imperial.jpg
+333,Initio Parfums Privés Oud for Greatness,Initio Parfums Privés,sekolah/kuliah,malam,4-6 jam,Oud spicy aromatic,4200000,4.7,Unisex,Oud for Greatness.jpg
+334,David Beckham Instinct,David Beckham,olahraga/gym,pagi,6-8 jam,Aromatic fresh spicy,350000,3.8,Pria,David Beckham Instinct.jpg
+335,Ralph Lauren Polo Sport,Ralph Lauren,olahraga/gym,pagi,6-8 jam,Aromatic green aquatic,800000,3.9,Pria,Polo Sport.jpg
+336,Clinique Happy for Men,Clinique,olahraga/gym,pagi,6-8 jam,Citrus aromatic fresh,750000,4.0,Pria,Happy for Men.jpg
+337,Davidoff Cool Water Woman,Davidoff,olahraga/gym,pagi,6-8 jam,Aquatic fruity floral,600000,3.8,Wanita,Cool Water Woman.jpg
+338,Ralph Lauren Polo Sport Woman,Ralph Lauren,olahraga/gym,pagi,6-8 jam,Aquatic floral fresh,850000,3.8,Wanita,Polo Sport Woman.jpg
+339,Tommy Hilfiger Tommy Girl,Tommy Hilfiger,olahraga/gym,pagi,6-8 jam,Floral fruity fresh,700000,3.9,Wanita,Tommy Girl.jpg
+340,Hermes Eau de Rhubarbe Écarlate,Hermès,olahraga/gym,pagi,6-8 jam,Fruity green fresh,1800000,4.0,Unisex,Rhubarbe Ecarlate.jpg
+341,Calvin Klein CK All,Calvin Klein,olahraga/gym,pagi,6-8 jam,Citrus floral fresh,650000,3.9,Unisex,CK All.jpg
+342,Creed Aventus Cologne,Creed,olahraga/gym,pagi,6-8 jam,Fruity woody fresh,4200000,4.4,Unisex,Aventus Cologne.jpg
+343,Adidas Pure Game,Adidas,olahraga/gym,pagi,4-6 jam,Woody aromatic fresh,300000,3.6,Pria,Pure Game.jpg
+344,Calvin Klein Defy,Calvin Klein,olahraga/gym,pagi,4-6 jam,Woody aromatic fresh,900000,4.0,Pria,CK Defy.jpg
+345,Ferrari Scuderia Black,Ferrari,olahraga/gym,pagi,4-6 jam,Aromatic fruity fresh,550000,3.7,Pria,Scuderia Black.jpg
+346,Ralph Lauren Romance Eau de Parfum,Ralph Lauren,olahraga/gym,pagi,4-6 jam,Floral musky fresh,1200000,4.0,Wanita,Romance.jpg
+347,Comme des Garçons Series 6: Synthetic - Garage,Comme des Garçons,olahraga/gym,pagi,4-6 jam,Woody metallic aromatic,1500000,3.8,Wanita,Garage.jpg
+348,Moschino Toy 2,Moschino,olahraga/gym,pagi,4-6 jam,Floral woody musky,950000,4.1,Wanita,Moschino Toy 2.jpg
+349,Diptyque L'Eau de L'Eau,Diptyque,olahraga/gym,pagi,4-6 jam,Citrus spice floral,1800000,4.0,Unisex,L'Eau de L'Eau.jpg
+350,Jo Malone Cypress & Grapevine,Jo Malone London,olahraga/gym,pagi,4-6 jam,Woody aromatic green,1800000,4.3,Unisex,Cypress & Grapevine.jpg
+351,Zara Vibrant Leather,Zara,olahraga/gym,pagi,4-6 jam,Citrus woody leather,350000,3.9,Unisex,Vibrant Leather EDP.jpg
+352,Guess Seductive Homme Blue,Guess,olahraga/gym,siang,6-8 jam,Aquatic fresh woody,600000,3.8,Pria,Guess Seductive Homme Blue.jpg
+353,Mercedes-Benz Man,Mercedes-Benz,olahraga/gym,siang,6-8 jam,Aromatic fruity fresh,950000,4.0,Pria,Mercedes-Benz Man.jpg
+354,Zara Man Silver,Zara,olahraga/gym,siang,6-8 jam,Aromatic fresh spicy,350000,3.8,Pria,Zara Man Silver.jpg
+355,Nike Woman Sport,Nike,olahraga/gym,siang,6-8 jam,Floral fruity fresh,250000,3.7,Wanita,Nike Woman Sport.jpg
+356,Adidas Get Ready! For Her,Adidas,olahraga/gym,siang,6-8 jam,Fruity floral fresh,200000,3.6,Wanita,Adidas Get Ready! For Her.jpg
+357,Etat Libre d'Orange You or Someone Like You,Etat Libre d'Orange,olahraga/gym,siang,6-8 jam,Fresh green aromatic,2500000,4.0,Wanita,You or Someone Like You.jpg
+358,ZARA Waterlily Tea Dress,ZARA,olahraga/gym,siang,6-8 jam,Fresh aquatic floral,300000,3.8,Unisex,Zara Waterlily Tea Dress.jpg
+359,Clean Reserve Citron Fig,Clean,olahraga/gym,siang,6-8 jam,Citrus woody green,1800000,4.2,Unisex,Citron Fig.jpg
+360,Versace Versense,Versace,olahraga/gym,siang,6-8 jam,Citrus woody fresh,1000000,4.2,Unisex,Versense.jpg
+361,Azzaro Chrome Under The Pole,Azzaro,olahraga/gym,siang,4-6 jam,Aquatic aromatic fresh,800000,3.9,Pria,Chrome Under The Pole.jpg
+362,Jimmy Choo Man Ice,Jimmy Choo,olahraga/gym,siang,4-6 jam,Citrus woody musky,900000,4.0,Pria,Jimmy Choo Man Ice.jpg
+363,Bentley Momentum Unbreakable,Bentley,olahraga/gym,siang,4-6 jam,Woody aromatic spicy,850000,4.1,Pria,Momentum Unbreakable.jpg
+364,Coach Dreams Sunset,Coach,olahraga/gym,siang,4-6 jam,Floral fruity amber,800000,3.9,Wanita,Coach Dreams Sunset.jpg
+365,Lancôme Idôle Aura,Lancôme,olahraga/gym,siang,4-6 jam,Floral musky solar,1400000,4.2,Wanita,Idole Aura.jpg
+366,Jimmy Choo Blossom Special Edition,Jimmy Choo,olahraga/gym,siang,4-6 jam,Fruity floral fresh,850000,3.9,Wanita,Blossom Special Edition.jpg
+367,Hermes Le Jardin de Monsieur Li,Hermès,olahraga/gym,siang,4-6 jam,Citrus aromatic green,1900000,4.0,Unisex,Le Jardin de Monsieur Li.jpg
+368,Maison Louis Marie No.09 Vallée de Farney,Maison Louis Marie,olahraga/gym,siang,4-6 jam,Woody spicy fresh,1000000,4.1,Unisex,Vallée de Farney.jpg
+369,Bvlgari Eau Parfumée au Thé Blanc,Bvlgari,olahraga/gym,siang,4-6 jam,Floral woody musky,1200000,4.1,Unisex,Eau Parfumee au The Blanc.jpg
+370,Hugo Boss BOSS Bottled Infinite,Hugo Boss,olahraga/gym,malam,6-8 jam,Woody aromatic fresh,1200000,4.1,Pria,BOSS Bottled Infinite.jpg
+371,Burberry Touch for Men,Burberry,olahraga/gym,malam,6-8 jam,Woody musky fresh,900000,4.0,Pria,Burberry Touch for Men.jpg
+372,Davidoff Cool Water Night Dive,Davidoff,olahraga/gym,malam,6-8 jam,Aquatic woody fresh,800000,3.9,Pria,Cool Water Night Dive.jpg
+373,Estée Lauder Pure White Linen,Estée Lauder,olahraga/gym,malam,6-8 jam,Floral aldehydic clean,1100000,4.1,Wanita,Pure White Linen.jpg
+374,Michael Kors Wonderlust,Michael Kors,olahraga/gym,malam,6-8 jam,Floral gourmand warm,1100000,4.0,Wanita,Wonderlust.jpg
+375,Givenchy L'Interdit Eau de Parfum,Givenchy,olahraga/gym,malam,6-8 jam,White floral woody,1600000,4.3,Wanita,L'Interdit EDP.jpg
+376,Byredo Mixed Emotions,Byredo,olahraga/gym,malam,6-8 jam,Woody aromatic tea,3000000,4.0,Unisex,Mixed Emotions.jpg
+377,Byredo Slow Dance,Byredo,olahraga/gym,malam,6-8 jam,Amber sweet resinous,3200000,4.2,Unisex,Slow Dance.jpg
+378,Initio Parfums Privés Musk Therapy,Initio Parfums Privés,olahraga/gym,malam,6-8 jam,Musky fruity clean,4000000,4.3,Unisex,Musk Therapy.jpg
+379,Louis Vuitton L'Immensité,Louis Vuitton,olahraga/gym,malam,4-6 jam,Amber fresh spicy,4500000,4.6,Pria,L'Immensite.jpg
+380,Issey Miyake L'Eau d'Issey Pour Homme Intense,Issey Miyake,olahraga/gym,malam,4-6 jam,Citrus spicy aquatic,900000,3.9,Pria,L'Eau d'Issey Pour Homme Intense.jpg
+381,Coach Green,Coach,olahraga/gym,malam,4-6 jam,Aromatic green woody,850000,4.0,Pria,Coach Green.jpg
+382,Burberry Her London Dream,Burberry,olahraga/gym,malam,4-6 jam,Floral fruity fresh,1200000,3.9,Wanita,Her London Dream.jpg
+383,Ralph Lauren Woman by Ralph Lauren,Ralph Lauren,olahraga/gym,malam,4-6 jam,White floral tuberose,1100000,4.0,Wanita,Ralph Lauren Woman.jpg
+384,Kenzo World Power,Kenzo,olahraga/gym,malam,4-6 jam,Aromatic salty sweet,950000,3.8,Wanita,Kenzo World Power.jpg
+385,Dior Bois d'Argent,Dior,olahraga/gym,malam,4-6 jam,Woody musky powdery,3800000,4.4,Unisex,Bois d'Argent.jpg
+386,Tom Ford Eau de Soleil Blanc,Tom Ford,olahraga/gym,malam,4-6 jam,White floral amber fresh,2500000,4.1,Unisex,Eau de Soleil Blanc.jpg
+387,Diptyque Tam Dao Eau de Parfum,Diptyque,olahraga/gym,malam,4-6 jam,Woody aromatic spicy,2800000,4.3,Unisex,Tam Dao EDP.jpg
+388,Bvlgari Pour Homme Extrême,Bvlgari,traveling,pagi,6-8 jam,Woody aromatic fresh,1000000,4.1,Pria,Bvlgari Pour Homme Extreme.jpg
+389,Carolina Herrera 212 Men Heroes,Carolina Herrera,traveling,pagi,6-8 jam,Aromatic fruity fresh,1000000,3.9,Pria,212 Men Heroes.jpg
+390,Xerjoff Torino21,Xerjoff,traveling,pagi,6-8 jam,Aromatic green fresh,3500000,4.6,Pria,Torino21.jpg
+391,Dior J'adore Eau de Toilette,Dior,traveling,pagi,6-8 jam,Floral fresh green,1700000,4.3,Wanita,J'adore EDT.jpg
+392,Salvatore Ferragamo Incanto Shine,Salvatore Ferragamo,traveling,pagi,6-8 jam,Fruity floral fresh,750000,3.9,Wanita,Incanto Shine.jpg
+393,Narciso Rodriguez Pure Musc For Her,Narciso Rodriguez,traveling,pagi,6-8 jam,Musky floral clean,1400000,4.2,Wanita,Pure Musc Woman.jpg
+394,Jo Malone London Grapefruit,Jo Malone London,traveling,pagi,6-8 jam,Citrus aromatic fresh,1800000,4.0,Unisex,Grapefruit.jpg
+395,Atelier Cologne Cédrat Enivrant,Atelier Cologne,traveling,pagi,6-8 jam,Citrus aromatic woody,2000000,4.2,Unisex,Cedrat Enivrant.jpg
+396,Clean Reserve Solar Bloom,Clean,traveling,pagi,6-8 jam,Floral solar coconut,1800000,3.9,Unisex,Solar Bloom.jpg
+397,Prada Luna Rossa Ocean,Prada,traveling,pagi,4-6 jam,Aromatic fresh woody,1400000,4.0,Pria,Luna Rossa Ocean.jpg
+398,Dunhill Icon Racing,Dunhill,traveling,pagi,4-6 jam,Woody aromatic fresh,1100000,4.0,Pria,Icon Racing.jpg
+399,Tommy Bahama St. Barts Set Sail,Tommy Bahama,traveling,pagi,4-6 jam,Citrus aquatic woody,750000,3.8,Pria,St Barts Set Sail.jpg
+400,Estée Lauder Beautiful Magnolia,Estée Lauder,traveling,pagi,4-6 jam,Floral fresh fruity,1000000,4.0,Wanita,Beautiful Magnolia.jpg
+401,Tiffany & Co. Tiffany & Love For Her,Tiffany & Co.,traveling,pagi,4-6 jam,Floral woody fresh,1300000,4.1,Wanita,Tiffany Love Her.jpg
+402,Louis Vuitton California Dream,Louis Vuitton,traveling,pagi,4-6 jam,Citrus musky amber,4500000,4.2,Wanita,California Dream.jpg
+403,Louis Vuitton Sun Song,Louis Vuitton,traveling,pagi,4-6 jam,Citrus floral fresh,4500000,4.2,Unisex,Sun Song.jpg
+404,Byredo Palermo,Byredo,traveling,pagi,4-6 jam,Citrus aromatic fresh,3000000,4.0,Unisex,Palermo.jpg
+405,Creed Erolfa,Creed,traveling,pagi,4-6 jam,Aquatic fresh woody,4000000,4.2,Unisex,Erolfa.jpg
+406,Dolce & Gabbana K by Dolce & Gabbana Eau de Toilette,Dolce & Gabbana,traveling,siang,6-8 jam,Citrus woody aromatic,1200000,4.0,Pria,K by Dolce & Gabbana.jpg
+407,Paco Rabanne Invictus Aqua,Paco Rabanne,traveling,siang,6-8 jam,Aquatic woody fresh,1100000,4.1,Pria,Invictus Aqua.jpg
+408,Valentino Uomo Born In Roma Yellow Dream,Valentino,traveling,siang,6-8 jam,Spicy fresh ginger,1350000,4.1,Pria,Born In Roma Yellow Dream.jpg
+409,Ralph Lauren Polo Earth,Ralph Lauren,traveling,siang,6-8 jam,Citrus aromatic green,1300000,4.0,Wanita,Polo Earth.jpg
+410,Hermes Jour d'Hermes Absolu,Hermes,traveling,siang,6-8 jam,White floral gardenia,2000000,4.3,Wanita,Jour d'Hermes Absolu.jpg
+411,Estée Lauder Beautiful Belle,Estée Lauder,traveling,siang,6-8 jam,Floral tuberose musky,1100000,4.1,Wanita,Beautiful Belle.jpg
+412,Vilhelm Parfumerie Mango Skin,Vilhelm Parfumerie,traveling,siang,6-8 jam,Fruity floral sweet,3500000,4.2,Unisex,Mango Skin.jpg
+413,Penhaligon's Halfeti,Penhaligon's,traveling,siang,6-8 jam,Woody spicy leathery,3200000,4.4,Unisex,Halfeti.jpg
+414,Frederic Malle Musc Ravageur,Frederic Malle,traveling,siang,6-8 jam,Amber musky vanilla,4500000,4.6,Unisex,Musc Ravageur.jpg
+415,Michael Kors Extreme Blue,Michael Kors,traveling,siang,4-6 jam,Woody aromatic fresh,900000,3.8,Pria,Extreme Blue.jpg
+416,Ferrari Bright Neroli,Ferrari,traveling,siang,4-6 jam,Citrus floral fresh,650000,3.9,Pria,Bright Neroli.jpg
+417,Mercedes-Benz Man,Mercedes-Benz,traveling,siang,4-6 jam,Aromatic fruity fresh,950000,3.8,Pria,Mercedes-Benz Man.jpg
+418,Elizabeth Arden Splendor,Elizabeth Arden,traveling,siang,4-6 jam,Floral oriental fresh,450000,3.8,Wanita,Splendor.jpg
+419,Lancôme La Vie Est Belle Soleil Cristal,Lancôme,traveling,siang,4-6 jam,Floral solar vanilla,1550000,4.2,Wanita,La Vie Est Belle Soleil Cristal.jpg
+420,Mugler Angel Nova,Mugler,traveling,siang,4-6 jam,Fruity woody sweet,1300000,4.1,Wanita,Angel Nova.jpg
+421,Serge Lutens L'Eau Froide,Serge Lutens,traveling,siang,4-6 jam,Woody aromatic fresh,2200000,4.0,Unisex,L'Eau Froide.jpg
+422,Ormonde Jayne Montabaco Verano,Ormonde Jayne,traveling,siang,4-6 jam,Leather spicy tobacco,4000000,4.5,Unisex,Montabaco Verano.jpg
+423,Amouage Jubilation XXV Man,Amouage,traveling,siang,4-6 jam,Amber woody spicy,4200000,4.6,Unisex,Jubilation XXV Man.jpg
+424,Viktor&Rolf Spicebomb Night Vision Eau de Parfum,Viktor&Rolf,traveling,malam,6-8 jam,Aromatic green spicy,2000000,4.2,Pria,Spicebomb Night Vision EDP.jpg
+425,Boss Bottled Oud,Hugo Boss,traveling,malam,6-8 jam,Woody oud spicy,1300000,4.1,Pria,Bottled Oud.jpg
+426,Jean Paul Gaultier Le Male Ultra Male,Jean Paul Gaultier,traveling,malam,6-8 jam,Amber fruity spicy,1500000,4.5,Pria,Ultra Male.jpg
+427,Guerlain Shalimar Philtre de Parfum,Guerlain,traveling,malam,6-8 jam,Oriental vanilla powdery,1800000,4.2,Wanita,Shalimar Philtre.jpg
+428,Lancôme La Nuit Trésor Nude,Lancôme,traveling,malam,6-8 jam,Floral fruity coconut,1400000,4.1,Wanita,La Nuit Tresor Nude.jpg
+429,Versace Crystal Noir Eau de Parfum,Versace,traveling,malam,6-8 jam,Amber floral spicy,1200000,4.3,Wanita,Crystal Noir.jpg
+430,Kilian Moonlight in Heaven,Kilian,traveling,pagi,6-8 jam,Fruity gourmand aromatic,4000000,4.4,Unisex,Moonlight in Heaven.jpg
+431,Penhaligon's Halfeti Cedar,Penhaligon's,traveling,pagi,6-8 jam,Woody spicy aromatic,3500000,4.2,Unisex,Halfeti Cedar.jpg
+432,Parfums de Marly Greenley,Parfums de Marly,traveling,pagi,6-8 jam,Fruity green woody,3800000,4.4,Unisex,Greenley.jpg

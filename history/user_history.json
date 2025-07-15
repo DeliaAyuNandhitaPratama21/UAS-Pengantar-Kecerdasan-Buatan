@@ -1,0 +1,152 @@
+[
+    {
+        "aktivitas": "hangout",
+        "waktu": "siang",
+        "durasi": "6-8 jam",
+        "rekomendasi": [
+            {
+                "id": 217,
+                "nama": "Lacoste L.12.12 Blanc Eau de Toilette",
+                "merek": "Lacoste",
+                "aktivitas": "hangout",
+                "waktu": "pagi",
+                "durasi": "4-6 jam",
+                "notes": "Woody aromatic fresh",
+                "harga": 800000,
+                "rating": 4.0,
+                "gender": "Pria",
+                "image": "Lacoste L.12.12 Blanc.jpg",
+                "fitur": "hangout pagi 4-6 jam"
+            },
+            {
+                "id": 238,
+                "nama": "Zara Gardenia",
+                "merek": "Zara",
+                "aktivitas": "hangout",
+                "waktu": "siang",
+                "durasi": "4-6 jam",
+                "notes": "White floral orange blossom",
+                "harga": 300000,
+                "rating": 3.9,
+                "gender": "Wanita",
+                "image": "Zara Gardenia.jpg",
+                "fitur": "hangout siang 4-6 jam"
+            },
+            {
+                "id": 250,
+                "nama": "Acqua di Parma Colonia Essenza",
+                "merek": "Acqua di Parma",
+                "aktivitas": "hangout",
+                "waktu": "siang",
+                "durasi": "6-8 jam",
+                "notes": "Citrus aromatic woody",
+                "harga": 3000000,
+                "rating": 4.6,
+                "gender": "Unisex",
+                "image": "Colonia Essenza.jpg",
+                "fitur": "hangout siang 6-8 jam"
+            }
+        ],
+        "timestamp": "2025-07-14T05:37:00.491688"
+    },
+    {
+        "aktivitas": "sekolah/kuliah",
+        "waktu": "pagi",
+        "durasi": "6-8 jam",
+        "rekomendasi": [
+            {
+                "id": 287,
+                "nama": "Goldfield & Banks Pacific Rock Moss",
+                "merek": "Goldfield & Banks",
+                "aktivitas": "sekolah/kuliah",
+                "waktu": "pagi",
+                "durasi": "6-8 jam",
+                "notes": "Aquatic woody fresh",
+                "harga": 2500000,
+                "rating": 4.5,
+                "gender": "Unisex",
+                "image": "Pacific Rock Moss.jpg",
+                "fitur": "sekolah/kuliah pagi 6-8 jam"
+            },
+            {
+                "id": 282,
+                "nama": "Issey Miyake L'Eau Majeure d'Issey",
+                "merek": "Issey Miyake",
+                "aktivitas": "sekolah/kuliah",
+                "waktu": "pagi",
+                "durasi": "6-8 jam",
+                "notes": "Woody aquatic fresh",
+                "harga": 900000,
+                "rating": 4.1,
+                "gender": "Pria",
+                "image": "L'Eau Majeure d'Issey.jpg",
+                "fitur": "sekolah/kuliah pagi 6-8 jam"
+            },
+            {
+                "id": 285,
+                "nama": "Clean Rain",
+                "merek": "Clean",
+                "aktivitas": "sekolah/kuliah",
+                "waktu": "pagi",
+                "durasi": "6-8 jam",
+                "notes": "Aquatic fresh floral",
+                "harga": 900000,
+                "rating": 4.0,
+                "gender": "Wanita",
+                "image": "Clean Rain.jpg",
+                "fitur": "sekolah/kuliah pagi 6-8 jam"
+            }
+        ],
+        "timestamp": "2025-07-14T05:37:18.492911"
+    },
+    {
+        "aktivitas": "bekerja",
+        "waktu": "pagi",
+        "durasi": "6-8 jam",
+        "rekomendasi": [
+            {
+                "id": 167,
+                "nama": "Coach Floral Blush",
+                "merek": "Coach",
+                "aktivitas": "bekerja",
+                "waktu": "pagi",
+                "durasi": "4-6 jam",
+                "notes": "Fruity floral fresh",
+                "harga": 950000,
+                "rating": 4.0,
+                "gender": "Wanita",
+                "image": "Coach Floral Blush.jpg",
+                "fitur": "bekerja pagi 4-6 jam"
+            },
+            {
+                "id": 172,
+                "nama": "Azzaro Chrome",
+                "merek": "Azzaro",
+                "aktivitas": "bekerja",
+                "waktu": "pagi",
+                "durasi": "6-8 jam",
+                "notes": "Citrus aromatic fresh",
+                "harga": 850000,
+                "rating": 4.0,
+                "gender": "Pria",
+                "image": "Azzaro Chrome.jpg",
+                "fitur": "bekerja pagi 6-8 jam"
+            },
+            {
+                "id": 180,
+                "nama": "Clean Reserve Rain",
+                "merek": "Clean",
+                "aktivitas": "bekerja",
+                "waktu": "pagi",
+                "durasi": "6-8 jam",
+                "notes": "Aquatic floral musky",
+                "harga": 1200000,
+                "rating": 4.1,
+                "gender": "Unisex",
+                "image": "Clean Reserve Rain.jpg",
+                "fitur": "bekerja pagi 6-8 jam"
+            }
+        ],
+        "timestamp": "2025-07-14T05:38:31.935654"
+    }
+]
